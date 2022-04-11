@@ -1,0 +1,65 @@
+nav{
+    text-align: right;
+    color: aqua;
+
+}
+h2{
+    margin-top: 80px;
+    text-align: left;
+    color: white;
+    font-size: 50px;
+}
+
+  
+h3{
+
+    text-align: left;
+    color: whitesmoke;
+    margin-top: 30px;
+    line-height: 40px;
+    
+}
+nav ul li{
+    
+    display: inline;
+    margin: 10px;
+    padding: 40px;
+    width: 40px;   
+    
+
+    
+}
+
+
+nav ul li a{
+    font-size: 30px;
+    color: aqua;
+    font-style: oblique;
+    text-decoration: none;
+    display:inline ;
+    font-weight: bolder;
+    
+    
+    
+
+}
+
+body{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url(ll.jpg);
+    
+}
+footer{
+    background-color: rgb(42, 165, 138);
+}
+ 
+ 
+ image{
+     width: 1000px;
+     height: 200px;
+ }
+
+    

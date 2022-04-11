@@ -1,0 +1,57 @@
+table,th,td{
+    border:  2px solid rgb(49, 170, 65);
+    width: 800px;
+    height: 150px;
+    align-items: center;
+    color: orangered;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+body{
+    background-image: url(zebra.jpeg);
+    background-size: cover ;
+    background-repeat:no-repeat ;
+    background-position:center ;
+}
+
+    
+
+nav ul li a{
+    font-size: 30px;
+    color: aqua;
+    font-style: oblique;
+    text-decoration: none;
+    display:inline ;
+    font-weight: bolder;
+    
+    
+
+}
+nav{
+    text-align: right;
+    color: aqua;
+
+}
+nav ul li{
+    
+    display: inline;
+    margin: 10px;
+    padding: 40px;
+    width: 40px;   
+    
+    
+
+    
+}
+nav{
+    text-align: right;
+}
+
+
+
+
+
+
+
+    
+
